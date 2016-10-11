@@ -1,0 +1,1 @@
+DELETE FROM Organizations WHERE name LIKE '@New Organization Test%';
